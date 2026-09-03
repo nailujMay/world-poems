@@ -1,8 +1,7 @@
 {
   "meta": {
     "title": "Placeholder Title",
-    "description": "Placeholder description for search engines and link previews.",
-    "outro": ["Placeholder closing line.", "Placeholder credit / contact."]
+    "description": "Placeholder description for search engines and link previews."
   },
   "entries": [
     {
@@ -44,7 +43,7 @@
 
             "The first walk through the Medina overloaded my senses",
 
-            "The smell of burning gasoline from the motorcycles burned my nostrils as they ripped through the streets."
+            "The smell of gasoline from the motorcycles burned my nostrils as they ripped through the streets."
           ]
         },
         {
@@ -127,7 +126,7 @@
       "foreground": "#141414",
       "slides": [
         {
-          "image": "DSCF7755 1",
+          "image": "DSCF7755 2",
           "layout": "top",
           "lines": [
             "Stay in the moment.",
@@ -153,13 +152,14 @@
           "image": "DSCF6489 1",
           "layout": "right",
           "lines": [
-            "Turkish aunties that treated me to tavukgöğsü.",
-            "The Puerto Ricans that kept me energized on the cold mountain side of Mt Fuji.",
-            "My German friends helping me up after wiping out on a glacier in Georgia."
+            "But there were people and experiences that will stick with me forever.",
+            "Turkish aunties treated me to tavukgöğsü.",
+            "Puerto Ricans kept me energized on the cold mountain side of Mt Fuji.",
+            "German friends helped me up after wiping out on a glacier in Georgia."
           ]
         },
         {
-          "image": "DSCF7415 2",
+          "image": "DSCF7415 1",
           "layout": "wide",
           "lines": [
             "Came out of it more grateful, more excited, and more confident about life. Things I did not expect to get out of this trip.",
