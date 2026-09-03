@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-mono: var(--font-b612-mono), ui-monospace, monospace;
+}
+
+html {
+  /* BackgroundStage repaints this as each entry scrolls past. */
+  transition: background-color 900ms linear;
+}
+
+body {
+  font-family: var(--font-mono);
+  -webkit-font-smoothing: antialiased;
+}

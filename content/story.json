@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Placeholder Title",
+    "description": "Placeholder description for search engines and link previews.",
+    "outro": ["Placeholder closing line.", "Placeholder credit / contact."]
+  },
+  "entries": [
+    {
+      "id": "2026-05-11",
+      "date": "05/11/2026",
+      "background": "#f2f1ed",
+      "foreground": "#141414",
+      "slides": [
+        {
+          "image": "DSCF5821 1",
+          "layout": "left",
+          "lines": [
+            "Travel.",
+
+            "I've been dreaming about this since I was a kid.",
+
+            "Going into the unknown.Wandering off the beaten path.Making friends that don't speak my language.",
+
+            "I distinctly remember running around my auntie's house telling everyone I would see the world."
+          ]
+        },
+        {
+          "image": "DSCF4891 1",
+          "layout": "top",
+          "lines": [
+            "The excitement was electric.",
+
+            "I could feel the adrenaline hitting every single part of my body as soon as I stepped off that first flight. "
+          ]
+        },
+        {
+          "image": "DSCF4981 1",
+          "layout": "full",
+          "lines": [
+            "Marrakesh.",
+            "My first stop.",
+
+            "I have never been anywhere this foreign.",
+
+            "The first walk through the Medina overloaded my senses",
+
+            "The smell of burning gasoline from the motorcycles burned my nostrils as they ripped through the streets."
+          ]
+        },
+        {
+          "image": "DSCF5437 1",
+          "layout": "wide",
+          "lines": [
+            "The colors were so vibrant. Nothing like I've ever seen before."
+          ]
+        },
+        {
+          "image": "DSCF5333 1",
+          "layout": "left",
+          "lines": [
+            "It was chaotic.",
+            "It was new.",
+            "It was raw.",
+            "It was what I've always hoped for."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-06-03",
+      "date": "06/03/2026",
+      "background": "#1b1d21",
+      "foreground": "#ece9e4",
+      "slides": [
+        {
+          "image": "DSCF5937 1",
+          "layout": "top",
+          "lines": [
+            "Alone.",
+            "You will never hear me complain about getting to travel. Any traveller around the world will tell you that travel is a privilege only few get to experience, so be grateful.",
+            "I am grateful."
+          ]
+        },
+        {
+          "image": "DSCF5582 1",
+          "layout": "wide",
+          "lines": [
+            "But, solo travel was not what I expected.",
+            "It got lonely, it got tiring, and there were some days where I felt so drained that I didn't leave the hostel."
+          ]
+        },
+        {
+          "image": "DSCF7262 1",
+          "layout": "right",
+          "lines": [
+            "I miss my friends.",
+            "I've spent most of this past year alone. Moved to a new country for 8 months, then headed around the world.",
+            "When was the last time I talked to them?"
+          ]
+        },
+        {
+          "image": "DSCF5503 1",
+          "layout": "full",
+          "lines": [
+            "Is it worth it?",
+            "A question I wrote down in my journal.",
+            "I only have so much time this summer.",
+            "What about family? What about career? Am I falling behind?"
+          ]
+        },
+        {
+          "image": "DSCF7995 1",
+          "layout": "left",
+          "lines": ["Am I wasting my time?"]
+        },
+        {
+          "image": "DSCF5810 1",
+          "layout": "top",
+          "lines": ["But we gotta keep going."]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-08",
+      "date": "07/08/2026",
+      "background": "#faf9f6",
+      "foreground": "#141414",
+      "slides": [
+        {
+          "image": "DSCF7755 1",
+          "layout": "top",
+          "lines": [
+            "Stay in the moment.",
+            "Something that's so easy to say but so hard to do.",
+            "Enjoy the thrill, let the worries pass, and have some fun.",
+            "Keep it simple. Don't think too much.",
+            "Meet some people.",
+            "Like Tony said.",
+            "Say yes to everything.",
+            "Experience as much as you can and be grateful, for you are lucky enough to do it."
+          ]
+        },
+        {
+          "image": "DSCF7948 1",
+          "layout": "full",
+          "lines": [
+            "This trip was everything I wanted it to be and more. Both good and bad.",
+
+            "There were times where it wrecked me. Times where I just sat in a cafe all day writing in my journal, thinking what am I doing?"
+          ]
+        },
+        {
+          "image": "DSCF6489 1",
+          "layout": "right",
+          "lines": [
+            "Turkish aunties that treated me to tavukgöğsü.",
+            "The Puerto Ricans that kept me energized on the cold mountain side of Mt Fuji.",
+            "My German friends helping me up after wiping out on a glacier in Georgia."
+          ]
+        },
+        {
+          "image": "DSCF7415 2",
+          "layout": "wide",
+          "lines": [
+            "Came out of it more grateful, more excited, and more confident about life. Things I did not expect to get out of this trip.",
+            "An experience of a lifetime."
+          ]
+        },
+        {
+          "image": "DSCF6925 1",
+          "layout": "left",
+          "lines": ["But now.. onto the next adventure."]
+        }
+      ]
+    }
+  ]
+}
